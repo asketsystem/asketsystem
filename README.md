@@ -5,22 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 We're currently working on MERN STACK 
+- 🌱 We're currently learning Blockchain
+- 👯 We're looking to collaborate on Algorithmic Trading 
+- 🤔 We're looking for help with Open Source Projects
+- 💬 Ask Us about our areas of expectise
+- 📫 How to reach Us: asketsystem1@gmail.com
+- 😄 Pronouns: We
+- ⚡ Fun fact: We're constantly learning about new ways to solve problem with tech 
 -->
 
 [![asketsystem's GitHub stats](https://github-readme-stats.vercel.app/api?username=asketsystem)](https://github.com/asketsystem/github-readme-stats)
 
 
 
-🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-🌆 Daytime    148 commits    ██████████░░░░░░░░░░░░░░░   41.0% 
-🌃 Evening    120 commits    ████████░░░░░░░░░░░░░░░░░   33.24% 
-🌙 Night      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.91%
 
