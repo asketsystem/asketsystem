@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 We're currently working on MERN STACK 
-- 🌱 We're currently learning Blockchain
+- 🌱 We're currently learning Blockchain, Ethereum Smart Contract
 - 👯 We're looking to collaborate on Algorithmic Trading 
 - 🤔 We're looking for help with Open Source Projects
 - 💬 Ask Us about our areas of expectise
